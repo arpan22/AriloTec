@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import {
   Mail, Phone, MapPin, MessageSquare, Calendar, Send,
-  CheckCircle, ArrowRight, Linkedin, Twitter, Github,
+  CheckCircle, ArrowRight,
 } from "lucide-react";
 
 const contactOptions = [
@@ -38,18 +38,13 @@ const contactOptions = [
 ];
 
 const officeInfo = [
-  { icon: MapPin, label: "Headquarters", value: "India (Remote-first, serving globally)" },
-  { icon: Mail, label: "General Inquiries", value: "hr@arliotech.com" },
-  { icon: Mail, label: "Business Development", value: "hr@arliotech.com" },
+  { icon: MapPin, label: "Headquarters", value: "Office 114, Fiction Tower, Phase 2, Hinjewadi IT Park, Pune, Maharashtra 411057" },
+  { icon: Mail, label: "General Inquiries", value: "hr@arliotec.com" },
+  { icon: Mail, label: "Business Development", value: "hr@arliotec.com" },
   { icon: Phone, label: "Phone (India)", value: "+91 890076432" },
   { icon: MessageSquare, label: "WhatsApp", value: "+91 890076432" },
 ];
 
-const socials = [
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/company/arliotech" },
-  { icon: Twitter, label: "Twitter/X", href: "https://twitter.com/arliotech" },
-  { icon: Github, label: "GitHub", href: "https://github.com/arliotech" },
-];
 
 const services = [
   "Artificial Intelligence Solutions",
@@ -343,26 +338,6 @@ export default function ContactPageContent() {
                         <p className="text-slate-200 text-sm">{info.value}</p>
                       </div>
                     </div>
-                  ))}
-                </div>
-              </div>
-
-              <div className="glass-card p-6 rounded-2xl border border-white/10">
-                <h3 className="text-white font-semibold mb-4">Connect With Us</h3>
-                <div className="space-y-3">
-                  {socials.map((s, i) => (
-                    <a
-                      key={i}
-                      href={s.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center gap-3 p-3 rounded-xl bg-white/3 hover:bg-white/8 border border-white/5 transition-all group"
-                    >
-                      <s.icon className="w-4 h-4 text-slate-400 group-hover:text-brand-blue-light transition-colors" />
-                      <span className="text-slate-300 text-sm group-hover:text-white transition-colors">
-                        {s.label}
-                      </span>
-                    </a>
                   ))}
                 </div>
               </div>

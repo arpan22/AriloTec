@@ -8,7 +8,7 @@ import SectionHeader from "@/components/ui/SectionHeader";
 const testimonials = [
   {
     quote:
-      "ArlioTech transformed our fraud detection system from a rule-based nightmare into an intelligent ML pipeline. We saw a 67% reduction in false positives within 3 months of go-live. Their team understood our compliance constraints from day one.",
+      "ArlioTec transformed our fraud detection system from a rule-based nightmare into an intelligent ML pipeline. We saw a 67% reduction in false positives within 3 months of go-live. Their team understood our compliance constraints from day one.",
     author: "Priya Mehta",
     role: "Chief Technology Officer",
     company: "NovaPay Financial Services",
@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     quote:
-      "We engaged ArlioTech for a generative AI project and they delivered something that genuinely impressed our board. The RAG-based knowledge management system they built reduced our customer support resolution time by 45%. Exceptional quality.",
+      "We engaged ArlioTec for a generative AI project and they delivered something that genuinely impressed our board. The RAG-based knowledge management system they built reduced our customer support resolution time by 45%. Exceptional quality.",
     author: "James Whitmore",
     role: "VP of Product",
     company: "Stratosphere SaaS",
@@ -41,7 +41,7 @@ const testimonials = [
   },
   {
     quote:
-      "ArlioTech built our AI-powered patient risk stratification model that is now being used across 12 hospitals in our network. The team's domain knowledge of healthcare combined with their ML expertise is rare and incredibly valuable.",
+      "ArlioTec built our AI-powered patient risk stratification model that is now being used across 12 hospitals in our network. The team's domain knowledge of healthcare combined with their ML expertise is rare and incredibly valuable.",
     author: "Dr. Sarah Chen",
     role: "Chief Medical Information Officer",
     company: "HealthBridge Network",
@@ -52,7 +52,7 @@ const testimonials = [
   },
   {
     quote:
-      "We needed an AI agent that could automate our procurement workflows end-to-end. ArlioTech delivered a multi-agent system using LangGraph that handles 80% of our purchase orders autonomously. ROI was achieved in 4 months.",
+      "We needed an AI agent that could automate our procurement workflows end-to-end. ArlioTec delivered a multi-agent system using LangGraph that handles 80% of our purchase orders autonomously. ROI was achieved in 4 months.",
     author: "Marco Delgado",
     role: "Director of Digital Transformation",
     company: "GlobalEdge Procurement",
@@ -98,7 +98,7 @@ export default function Testimonials() {
           title={
             <>
               What Our Clients Say{" "}
-              <span className="gradient-text">About ArlioTech</span>
+              <span className="gradient-text">About ArlioTec</span>
             </>
           }
           className="mb-16"

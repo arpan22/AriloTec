@@ -4,8 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import {
-  Brain, Mail, Phone, MapPin, Twitter, Linkedin, Github,
-  Youtube, ArrowRight, Send,
+  Brain, Mail, Phone, MapPin, Youtube, ArrowRight, Send,
 } from "lucide-react";
 
 const footerLinks = {
@@ -43,10 +42,7 @@ const footerLinks = {
 };
 
 const socials = [
-  { icon: Linkedin, href: "https://linkedin.com/company/arliotech", label: "LinkedIn" },
-  { icon: Twitter, href: "https://twitter.com/arliotech", label: "Twitter" },
-  { icon: Github, href: "https://github.com/arliotech", label: "GitHub" },
-  { icon: Youtube, href: "https://youtube.com/@arliotech", label: "YouTube" },
+  { icon: Youtube, href: "https://youtube.com/@arliotec", label: "YouTube" },
 ];
 
 export default function Footer() {
@@ -103,11 +99,11 @@ export default function Footer() {
             {/* Contact info */}
             <div className="space-y-3">
               <a
-                href="mailto:hello@arliotech.com"
+                href="mailto:hello@arliotec.com"
                 className="flex items-center gap-3 text-sm text-slate-400 hover:text-white transition-colors"
               >
                 <Mail className="w-4 h-4 text-brand-blue-light flex-shrink-0" />
-                hello@arliotech.com
+                hello@arliotec.com
               </a>
               <a
                 href="tel:+919876543210"
@@ -235,7 +231,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-slate-500 text-sm">
-              © {new Date().getFullYear()} ArlioTech. All rights reserved. Made with ❤️ in India.
+              © {new Date().getFullYear()} ArlioTec. All rights reserved. Made with ❤️ in India.
             </p>
             <div className="flex items-center gap-6">
               {footerLinks.legal.map((l) => (

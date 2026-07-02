@@ -185,7 +185,7 @@ export default function CaseStudiesPageContent() {
             className="text-slate-400 text-lg max-w-2xl mx-auto leading-relaxed"
           >
             We let results speak. Here are six detailed case studies showing exactly how
-            ArlioTech&apos;s AI solutions have transformed businesses across industries.
+            ArlioTec&apos;s AI solutions have transformed businesses across industries.
           </motion.p>
         </div>
       </section>

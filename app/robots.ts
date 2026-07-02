@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/", "/admin/"],
       },
     ],
-    sitemap: "https://arliotech.com/sitemap.xml",
+    sitemap: "https://arliotec.com/sitemap.xml",
   };
 }

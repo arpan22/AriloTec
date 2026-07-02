@@ -13,11 +13,11 @@ import FAQSection from "@/components/home/FAQSection";
 import ContactCTA from "@/components/home/ContactCTA";
 
 export const metadata: Metadata = {
-  title: "ArlioTech – AI Solutions & Digital Transformation Company India",
+  title: "ArlioTec – AI Solutions & Digital Transformation Company India",
   description:
-    "ArlioTech builds enterprise AI solutions — generative AI, intelligent automation, machine learning, and cloud platforms. India's premier AI innovation partner for startups, SMEs, and enterprises.",
+    "ArlioTec builds enterprise AI solutions — generative AI, intelligent automation, machine learning, and cloud platforms. India's premier AI innovation partner for startups, SMEs, and enterprises.",
   openGraph: {
-    title: "ArlioTech – AI Solutions & Digital Transformation",
+    title: "ArlioTec – AI Solutions & Digital Transformation",
     description:
       "India's premier AI innovation company delivering generative AI, automation, and enterprise digital transformation.",
   },

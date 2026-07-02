@@ -4,13 +4,13 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://arliotech.com"),
+  metadataBase: new URL("https://arliotec.com"),
   title: {
-    default: "ArlioTech – AI Solutions & Digital Transformation Company India",
-    template: "%s | ArlioTech",
+    default: "ArlioTec – AI Solutions & Digital Transformation Company India",
+    template: "%s | ArlioTec",
   },
   description:
-    "ArlioTech is India's premier AI innovation company delivering intelligent automation, generative AI, cloud solutions, and enterprise digital transformation services.",
+    "ArlioTec is India's premier AI innovation company delivering intelligent automation, generative AI, cloud solutions, and enterprise digital transformation services.",
   keywords: [
     "AI company India",
     "artificial intelligence solutions",
@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     "digital transformation",
     "cloud solutions",
     "data engineering",
-    "ArlioTech",
+    "ArlioTec",
     "enterprise AI",
   ],
-  authors: [{ name: "ArlioTech", url: "https://arliotech.com" }],
-  creator: "ArlioTech",
-  publisher: "ArlioTech",
+  authors: [{ name: "ArlioTec", url: "https://arliotec.com" }],
+  creator: "ArlioTec",
+  publisher: "ArlioTec",
   robots: {
     index: true,
     follow: true,
@@ -34,19 +34,19 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://arliotech.com",
-    siteName: "ArlioTech",
-    title: "ArlioTech – AI Solutions & Digital Transformation Company India",
+    url: "https://arliotec.com",
+    siteName: "ArlioTec",
+    title: "ArlioTec – AI Solutions & Digital Transformation Company India",
     description:
       "India's premier AI innovation company delivering intelligent automation, generative AI, and enterprise digital transformation.",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "ArlioTech" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "ArlioTec" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "ArlioTech – AI Innovation Company India",
+    title: "ArlioTec – AI Innovation Company India",
     description: "Intelligent AI solutions for startups, SMEs and enterprises.",
     images: ["/og-image.png"],
-    creator: "@arliotech",
+    creator: "@arliotec",
   },
   icons: {
     icon: "/favicon.ico",
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   },
   manifest: "/site.webmanifest",
   alternates: {
-    canonical: "https://arliotech.com",
+    canonical: "https://arliotec.com",
   },
 };
 
@@ -78,9 +78,9 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              name: "ArlioTech",
-              url: "https://arliotech.com",
-              logo: "https://arliotech.com/logo.png",
+              name: "ArlioTec",
+              url: "https://arliotec.com",
+              logo: "https://arliotec.com/logo.png",
               description:
                 "India's premier AI innovation company delivering intelligent automation, generative AI, cloud solutions, and enterprise digital transformation services.",
               address: {
@@ -91,13 +91,13 @@ export default function RootLayout({
               contactPoint: {
                 "@type": "ContactPoint",
                 contactType: "customer service",
-                email: "hello@arliotech.com",
+                email: "hello@arliotec.com",
                 availableLanguage: ["English", "Hindi"],
               },
               sameAs: [
-                "https://linkedin.com/company/arliotech",
-                "https://twitter.com/arliotech",
-                "https://github.com/arliotech",
+                "https://linkedin.com/company/arliotec",
+                "https://twitter.com/arliotec",
+                "https://github.com/arliotec",
               ],
             }),
           }}

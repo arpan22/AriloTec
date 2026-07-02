@@ -59,7 +59,7 @@ const values = [
 const timeline = [
   {
     year: "2019",
-    title: "ArlioTech Founded",
+    title: "ArlioTec Founded",
     desc: "Started with a small team of AI researchers and engineers with a mission to make enterprise AI accessible to businesses of all sizes.",
   },
   {
@@ -91,7 +91,7 @@ const timeline = [
 
 const leadership = [
   {
-    name: "Aryan Pathak",
+    name: "Ashok Patel",
     role: "Founder & CEO",
     bio: "AI strategist and engineer with a vision to democratize enterprise AI for Indian businesses and global markets. Previously led AI initiatives at top technology firms.",
     avatar: "AP",
@@ -152,7 +152,7 @@ export default function AboutPage() {
               className="section-label mb-6 inline-flex"
             >
               <span className="w-1.5 h-1.5 rounded-full bg-brand-blue-light animate-pulse" />
-              About ArlioTech
+              About ArlioTec
             </motion.span>
             <motion.h1
               initial={{ opacity: 0, y: 24 }}
@@ -169,7 +169,7 @@ export default function AboutPage() {
               transition={{ delay: 0.2 }}
               className="text-slate-400 text-lg leading-relaxed"
             >
-              Founded in India with a global vision, ArlioTech is on a mission to make advanced
+              Founded in India with a global vision, ArlioTec is on a mission to make advanced
               artificial intelligence accessible, practical, and transformative for businesses of
               every size — from ambitious startups to global enterprises.
             </motion.p>
@@ -215,7 +215,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-4 text-slate-400 leading-relaxed">
                 <p>
-                  ArlioTech was born in 2019 from a simple but powerful idea: that every business
+                  ArlioTec was born in 2019 from a simple but powerful idea: that every business
                   — regardless of size or budget — deserves access to world-class artificial
                   intelligence. Not theoretical AI. Not demos. Real, production-grade systems that
                   move the needle.
@@ -224,7 +224,7 @@ export default function AboutPage() {
                   Our founders had spent years inside large technology companies watching AI
                   projects fail — not because the technology wasn&apos;t capable, but because the
                   bridge between research and real-world application was too wide. We started
-                  ArlioTech to be that bridge.
+                  ArlioTec to be that bridge.
                 </p>
                 <p>
                   Today, with 50+ AI engineers, data scientists, and architects, we&apos;ve delivered
@@ -370,7 +370,7 @@ export default function AboutPage() {
             title={
               <>
                 The Minds Behind{" "}
-                <span className="gradient-text">ArlioTech</span>
+                <span className="gradient-text">ArlioTec</span>
               </>
             }
             description="A team of engineers, researchers, and strategists united by a passion for building AI that actually works."

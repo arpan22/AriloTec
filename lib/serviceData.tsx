@@ -7,7 +7,7 @@ export const serviceDataMap: Record<string, ServicePageData> = {
     titleGradient: "Artificial Intelligence Solutions",
     headline: "Artificial Intelligence",
     heroDescription:
-      "From AI strategy and model development to deployment and MLOps, ArlioTech delivers production-grade artificial intelligence systems that create genuine competitive advantage for your business.",
+      "From AI strategy and model development to deployment and MLOps, ArlioTec delivers production-grade artificial intelligence systems that create genuine competitive advantage for your business.",
     description:
       "We design, develop, and deploy intelligent AI systems across the full spectrum — from custom model training to enterprise AI platforms that scale to millions of users.",
     gradient: "from-blue-500 to-purple-500",
@@ -58,7 +58,7 @@ export const serviceDataMap: Record<string, ServicePageData> = {
     titleGradient: "Generative AI at Their Core",
     headline: "Generative AI",
     heroDescription:
-      "ArlioTech is one of India's leading Generative AI studios. We build RAG systems, LLM-powered applications, AI copilots, and custom fine-tuned models that transform how your team works.",
+      "ArlioTec is one of India's leading Generative AI studios. We build RAG systems, LLM-powered applications, AI copilots, and custom fine-tuned models that transform how your team works.",
     description:
       "We specialize in taking the latest LLMs — GPT-4, Claude, Gemini, Llama — and engineering them into reliable, secure, enterprise-grade applications with measurable ROI.",
     gradient: "from-purple-500 to-pink-500",
@@ -744,7 +744,7 @@ export const serviceDataMap: Record<string, ServicePageData> = {
       { step: "01", title: "Requirements", description: "Define skills, experience level, timezone, and engagement duration." },
       { step: "02", title: "Matching", description: "Present pre-vetted candidates within 48 hours from our talent network." },
       { step: "03", title: "Interview & Trial", description: "Interview candidates and run a paid trial sprint before full commitment." },
-      { step: "04", title: "Onboard & Scale", description: "Seamless onboarding to your team with ongoing support from ArlioTech." },
+      { step: "04", title: "Onboard & Scale", description: "Seamless onboarding to your team with ongoing support from ArlioTec." },
     ],
     useCases: [
       "ML engineer for AI product",
@@ -762,7 +762,7 @@ export const serviceDataMap: Record<string, ServicePageData> = {
       { q: "How quickly can we get someone started?", a: "We present pre-vetted candidates within 48 hours of receiving your requirements. After your interview and a paid trial sprint (typically 1–2 weeks), the engineer can be fully onboarded and productive within 2–3 weeks of initial contact." },
       { q: "What if the engineer isn't the right fit?", a: "We stand behind our placements. If someone isn't working out within the first 30 days, we replace them at no additional cost. Our 95% trial-to-long-term conversion rate means this rarely happens, but we make it risk-free." },
       { q: "Do your engineers work in our timezone?", a: "Yes. We have engineers available across IST, GMT, and US timezones. For most engagements, we ensure at least 4–6 hours of overlap with your core team hours for real-time collaboration." },
-      { q: "Who manages the engineer — us or ArlioTech?", a: "You manage the day-to-day work and priorities — the engineer is fully dedicated to your team and follows your processes. ArlioTech handles HR, payroll, benefits, and provides a technical account manager who does monthly check-ins to ensure quality." },
+      { q: "Who manages the engineer — us or ArlioTec?", a: "You manage the day-to-day work and priorities — the engineer is fully dedicated to your team and follows your processes. ArlioTec handles HR, payroll, benefits, and provides a technical account manager who does monthly check-ins to ensure quality." },
     ],
   },
 };

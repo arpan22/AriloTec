@@ -93,7 +93,7 @@ export default function HeroSection() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-lg sm:text-xl text-slate-400 max-w-3xl mx-auto leading-relaxed mb-10"
         >
-          ArlioTech engineers enterprise-grade AI solutions — from generative AI and intelligent
+          ArlioTec engineers enterprise-grade AI solutions — from generative AI and intelligent
           agents to full-stack automation — helping startups, SMEs, and global enterprises unlock
           exponential growth through technology.
         </motion.p>

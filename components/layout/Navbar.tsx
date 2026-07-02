@@ -82,7 +82,7 @@ export default function Navbar() {
                 <Brain className="absolute inset-0 m-auto w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold tracking-tight">
-                Arlio<span className="gradient-text">Tech</span>
+                Arlio<span className="gradient-text">Tec</span>
               </span>
             </Link>
 

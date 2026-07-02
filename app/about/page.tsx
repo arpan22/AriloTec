@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import AboutPage from "@/components/sections/AboutPage";
 
 export const metadata: Metadata = {
-  title: "About ArlioTech – Our Story, Mission & Team",
+  title: "About ArlioTec – Our Story, Mission & Team",
   description:
-    "Learn how ArlioTech is redefining enterprise AI in India. Our mission, core values, leadership team, and the philosophy behind everything we build.",
+    "Learn how ArlioTec is redefining enterprise AI in India. Our mission, core values, leadership team, and the philosophy behind everything we build.",
   openGraph: {
-    title: "About ArlioTech – India's Premier AI Innovation Company",
-    description: "Our story, mission, vision, and the team behind ArlioTech's AI excellence.",
+    title: "About ArlioTec – India's Premier AI Innovation Company",
+    description: "Our story, mission, vision, and the team behind ArlioTec's AI excellence.",
   },
 };
 
