@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import ServicesPageContent from "@/components/sections/ServicesPageContent";
 
 export const metadata: Metadata = {
-  title: "AI Services – ArlioTec",
+  title: "AI Services – AriloTec",
   description:
-    "Explore ArlioTec's full range of AI and technology services: generative AI, machine learning, automation, cloud solutions, and more.",
+    "Explore AriloTec's full range of AI and technology services: generative AI, machine learning, automation, cloud solutions, and more.",
 };
 
 export default function ServicesPage() {

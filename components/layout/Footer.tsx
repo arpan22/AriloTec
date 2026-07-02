@@ -42,7 +42,7 @@ const footerLinks = {
 };
 
 const socials = [
-  { icon: Youtube, href: "https://youtube.com/@arliotec", label: "YouTube" },
+  { icon: Youtube, href: "https://youtube.com/@arilotec", label: "YouTube" },
 ];
 
 export default function Footer() {
@@ -99,11 +99,11 @@ export default function Footer() {
             {/* Contact info */}
             <div className="space-y-3">
               <a
-                href="mailto:hello@arliotec.com"
+                href="mailto:hello@arilotec.com"
                 className="flex items-center gap-3 text-sm text-slate-400 hover:text-white transition-colors"
               >
                 <Mail className="w-4 h-4 text-brand-blue-light flex-shrink-0" />
-                hello@arliotec.com
+                hello@arilotec.com
               </a>
               <a
                 href="tel:+919876543210"
@@ -231,7 +231,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-slate-500 text-sm">
-              © {new Date().getFullYear()} ArlioTec. All rights reserved. Made with ❤️ in India.
+              © {new Date().getFullYear()} AriloTec. All rights reserved. Made with ❤️ in India.
             </p>
             <div className="flex items-center gap-6">
               {footerLinks.legal.map((l) => (

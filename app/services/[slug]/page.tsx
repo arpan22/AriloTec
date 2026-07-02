@@ -17,10 +17,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!data) return {};
 
   return {
-    title: `${data.label} – ArlioTec`,
+    title: `${data.label} – AriloTec`,
     description: data.heroDescription,
     openGraph: {
-      title: `${data.label} | ArlioTec`,
+      title: `${data.label} | AriloTec`,
       description: data.heroDescription,
     },
   };

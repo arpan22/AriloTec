@@ -4,4 +4,4 @@ Disallow: /api/
 Disallow: /_next/
 Disallow: /admin/
 
-Sitemap: https://arliotec.com/sitemap.xml
+Sitemap: https://arilotec.com/sitemap.xml

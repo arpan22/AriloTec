@@ -21,7 +21,7 @@ const industries = [
     accent: "text-red-400",
     bg: "bg-red-500/10",
     description:
-      "ArlioTec builds HIPAA-compliant AI solutions that power the next generation of healthcare delivery. From clinical decision support that helps physicians make faster, more accurate diagnoses, to AI-driven drug discovery platforms that compress years of research into months.",
+      "AriloTec builds HIPAA-compliant AI solutions that power the next generation of healthcare delivery. From clinical decision support that helps physicians make faster, more accurate diagnoses, to AI-driven drug discovery platforms that compress years of research into months.",
     challenges: ["Manual clinical workflows slowing care delivery", "Inaccurate diagnoses due to data silos", "Skyrocketing operational costs", "Regulatory compliance complexity"],
     solutions: [
       "Medical imaging AI for radiology and pathology",

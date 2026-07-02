@@ -90,7 +90,7 @@ export default function WhyChooseUs() {
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
-          label="Why ArlioTec"
+          label="Why AriloTec"
           title={
             <>
               The AI Partner That Delivers{" "}

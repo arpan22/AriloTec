@@ -72,7 +72,7 @@ const openings = [
     type: "Full-time",
     level: "Senior",
     tags: ["Product Strategy", "AI", "Roadmap", "Client"],
-    desc: "Define and own the product roadmap for ArlioTec's internal AI products. Bridge between clients, engineering, and design to ship impactful AI solutions.",
+    desc: "Define and own the product roadmap for AriloTec's internal AI products. Bridge between clients, engineering, and design to ship impactful AI solutions.",
   },
   {
     title: "UI/UX Designer",
@@ -90,7 +90,7 @@ const openings = [
     type: "Full-time",
     level: "Mid–Senior",
     tags: ["Kubernetes", "Terraform", "MLflow", "AWS"],
-    desc: "Build and maintain the cloud infrastructure and MLOps platform that powers ArlioTec's AI delivery — CI/CD, model serving, and observability.",
+    desc: "Build and maintain the cloud infrastructure and MLOps platform that powers AriloTec's AI delivery — CI/CD, model serving, and observability.",
   },
   {
     title: "Business Development Manager",

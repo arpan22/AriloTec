@@ -15,7 +15,7 @@ const faqs = [
     a: "Not always. The data requirements depend on the use case. Some solutions (like RAG-based chatbots using your knowledge base) can start with limited data. For predictive ML models, we help you assess data readiness, and in some cases we use transfer learning and synthetic data generation to bootstrap with smaller datasets.",
   },
   {
-    q: "How does ArlioTec ensure data security and privacy?",
+    q: "How does AriloTec ensure data security and privacy?",
     a: "Security is built into everything we do. We are ISO 27001 certified and GDPR compliant. We sign comprehensive NDAs, offer on-premise or private cloud deployment, use encrypted data pipelines, and conduct regular security audits. Your data never trains third-party models.",
   },
   {

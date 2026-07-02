@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const baseUrl = "https://arliotec.com";
+const baseUrl = "https://arilotec.com";
 
 const services = [
   "artificial-intelligence",
