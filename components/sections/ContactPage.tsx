@@ -38,9 +38,8 @@ const contactOptions = [
 ];
 
 const officeInfo = [
-  { icon: MapPin, label: "Headquarters", value: "Office 114, Fiction Tower, Phase 2, Hinjewadi IT Park, Pune, Maharashtra 411057" },
+  { icon: MapPin, label: "Headquarters", value: "Rajiv Gandhi Infotech Park, Phase 2, Hinjewadi, Pune, Maharashtra" },
   { icon: Mail, label: "General Inquiries", value: "hr@arilotec.com" },
-  { icon: Mail, label: "Business Development", value: "hr@arilotec.com" },
   { icon: Phone, label: "Phone (India)", value: "+91 890076432" },
   { icon: MessageSquare, label: "WhatsApp", value: "+91 890076432" },
 ];
